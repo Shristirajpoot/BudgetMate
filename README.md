@@ -1,7 +1,7 @@
 ![GitHub Cards Preview](https://github.com/Spikeysanju/Expenso/blob/master/art/EXPENSO-ANDROID.png?raw=true)
 
 # Expenso 📊
-A Simple Expense Tracker App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗. *Made with love ❤️ by [Spikeysanju](https://github.com/Spikeysanju)*
+A Simple Expense Tracker App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗. *Made with love ❤️ by [Shristi](https://github.com/Shristirajpoot)*
 
 <br />
 
@@ -102,18 +102,6 @@ Well, we've iOS version here, Checkout the iOS version of this app <a href="http
 
 <br />
 
-## Contribute 🤝
-If you want to contribute to this app, you're always welcome!
-See [Contributing Guidelines](https://github.com/Spikeysanju/Expenso/blob/master/CONTRIBUTION.md). 
-
-<br>
-
-## Contact 📩
-Have an project? DM us at 👇
-
-Drop a mail to:- spikeysanju98@gmail.com
-
-<br>
 
 ## Donation 💰
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
@@ -122,13 +110,6 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 <br>
 
-
-## Credits 🤗
-
-- 🤓 Icons are from [tablericons.com](https://tablericons.com) 
-- 📄 Thanks for [NotyKT](https://github.com/PatilShreyas/NotyKT)
-
-<br />
 
 ## License 🔖
 ```
