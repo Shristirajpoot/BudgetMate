@@ -95,12 +95,7 @@ You need to have [Android Studio Beta 3 or above](https://developer.android.com/
 <br>
 <img src="./beta_android.png" height="200" alt="Beta-studio"/>
 
-<br>
 
-## Ohh You want iOS App Too? 📱 
-Well, we've iOS version here, Checkout the iOS version of this app <a href="https://github.com/sameersyd/Expenso">Expenso</a>
-
-<br />
 
 
 ## Donation 💰
@@ -116,7 +111,6 @@ If this project help you reduce time to develop, you can give me a cup of coffee
     Apache 2.0 License
 
 
-    Copyright 2021 Spikey sanju
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -132,3 +126,4 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 ```
 
+Made with love ❤️ by Shristi
